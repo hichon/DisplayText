@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DisplayText</string>
+    <string name="add_button">追加</string>
+    <string name="clear_button">消去</string>
+
+</resources>
